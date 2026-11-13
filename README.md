@@ -1,5 +1,4 @@
 # Dota 2 Store
-
 Многостраничный сайт магазина предметов Dota 2.
 
 ## Технологии
@@ -13,4 +12,4 @@
 - `contacts.html` - Контакты
 
 ## Демо (GitHub Pages)
-[Ссылка на ваш сайт будет здесь]
+`(https://github.com/foidkiller993/kr1-dota-store)
