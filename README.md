@@ -12,4 +12,4 @@
 - `contacts.html` - Контакты
 
 ## Демо (GitHub Pages)
-`(https://github.com/foidkiller993/kr1-dota-store)
+[(https://github.com/foidkiller993/kr1-dota-store)]
